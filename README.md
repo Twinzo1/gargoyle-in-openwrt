@@ -67,6 +67,6 @@ fi
 
 Thanks:
 
-. https://github.com/ericpaulbishop/gargoyle
+* https://github.com/ericpaulbishop/gargoyle
 
-. https://github.com/project-openwrt/openwrt/commit/47040d246daceff23739e44f4cbb38ebbf3bb593
+* https://github.com/project-openwrt/openwrt/commit/47040d246daceff23739e44f4cbb38ebbf3bb593
