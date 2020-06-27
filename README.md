@@ -3,7 +3,7 @@
 
 ### 移植石像鬼插件到openwrt
 
-Useage:
+#### Useage:
 
 1. 将整个项目克隆到openwrt源码package目录中，全部放入gargoyle目录中
 
@@ -18,7 +18,7 @@ package/gargoyle/gargoyle-build.sh
 make menuconfig
 ```
 
-Update:
+#### Update:
 
 该项目完全可以自己更新，所需要修改的只有少量脚本。
 1. 除了 
@@ -65,7 +65,7 @@ fi
 ```
 是为了使它可以正常编译而添加的，若去掉可正常编译，则可去。
 
-Thanks:
+#### Thanks:
 
 * https://github.com/ericpaulbishop/gargoyle
 
