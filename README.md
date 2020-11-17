@@ -3,7 +3,7 @@
 
 ### 移植石像鬼插件到openwrt
 
-#### Useage:
+#### Usage:
 
 1. 将整个项目克隆到openwrt源码package目录中，全部放入gargoyle目录中
 
